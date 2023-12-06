@@ -1,3 +1,8 @@
+import random
+favorite_fruits = ['apple', 'banana', 'orange', 'melon', 'sandia']
+word_list = favorite_fruits
+word = random.choice(word_list)
+
 # Hangman Project: Milestone 3 - Task 1
 
 while True:
