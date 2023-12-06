@@ -19,3 +19,10 @@ if len(guess) == 1 and guess.isalpha():
    print("Good guess!")
 else:
    print("Oops! That is not a valid input.")
+
+# Hangman Project: Milestone 2 - Task 5 - Update ReadMe file
+
+# Hangman Project: Milestone 2 - Task 6 - Update code to GitHub
+
+# Hangman Project: Milestone 2 - Task 6 - Optimise current code 
+
